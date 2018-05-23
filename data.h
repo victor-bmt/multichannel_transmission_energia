@@ -63,14 +63,3 @@ const byte data[ROWS_NUM][COL_NUM] = {
             { byte(255), byte(128), byte(102), byte(252), byte(9), byte(251), byte(255), byte(54) },
             { byte(255), byte(128), byte(115), byte(254), byte(0), byte(255), byte(255), byte(52) }
     };
-
-
-
-/*const byte ROWS_NUM = 5;
-const byte COL_NUM = 5;
-
-const byte data[ROWS_NUM][COL_NUM] = { { byte('b'), byte('e'), byte('l'), byte('o'), byte('w') },
-                                       { byte('F'), byte('r'), byte('i'), byte('c'), byte('k') },
-                                       { byte('A'), byte('B'), byte('C'), byte('D'), byte('E') },
-                                       { byte('E'), byte('N'), byte('E'), byte('R'), byte('G') },
-                                       { byte('U'), byte('N'), byte('D'), byte('E'), byte('R') } }; */
